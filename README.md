@@ -1,6 +1,6 @@
-# Ether Monitor
+# Ethereum Mempool Monitor
 
-This program monitory Ethereum mempool transactions.
+This program monitor Ethereum mempool transactions.
 
 ### Run
 
